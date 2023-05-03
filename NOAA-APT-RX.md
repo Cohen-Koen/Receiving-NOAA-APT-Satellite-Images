@@ -51,8 +51,9 @@ Most SDR software have record functions, these differ for all however they shoul
 ![](assets/20230502_233139_APT_NOAA.jpg)
 
 ## Lets make an Image!
-
-You are almost there! In the end you should have a around 10 minute audio file. Because we are using NOAA APT decoder rather than WXTOIMG we just throw our audio into it through the input file section, You press decode, then you go through your options and etc for how you want your map and a raw image file should look something like this:
+Almost There!
+NOAA APT decoder is very straightforward but just in case:
+In the end you should have a around 10 minute audio file. Because we are using NOAA APT decoder rather than WXTOIMG we just throw our audio into it through the input file section after you start the app, You press decode, then you go through your options and etc for how you want your map and a raw image file should look something like this:
 
 ![](https://cdn.discordapp.com/attachments/925770670728687666/1103102161698689144/29-4-2023.jpg)
 
