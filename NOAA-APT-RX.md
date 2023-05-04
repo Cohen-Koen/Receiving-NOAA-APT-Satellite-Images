@@ -14,7 +14,7 @@ A Guide by Delta, Eight, Zeta
 
 If you want to be able to use your sdr, you need a SDR application to control it, I would reccomend SDR Sharp, GQRX (If you use linux), SDR++, AngelSDR,HDSDR, SDR UNO,GNU-Radio (more so a development ecosystem). There are many others but I would not worry about those. Personally I use SDR# (sharp) and GQRX for my RTL-SDR.
 
-The second piece of software you will need is [NOAA-APT decoder](https://noaa-apt.mbernardi.com.ar/https:/) Which is my choice in APT decoding software for these NOAA images, it includes false color and map overlay. It is a great piece of software compared to the abandonware WXTOIMG which is great for overlays but is very picky in everything else.
+The second piece of software you will need is [NOAA-APT decoder](https://noaa-apt.mbernardi.com.ar/) Which is my choice in APT decoding software for these NOAA images, it includes false color and map overlay. It is a great piece of software compared to the abandonware WXTOIMG which is great for overlays but is very picky in everything else.
 
 ## So You Need an Antenna
 
